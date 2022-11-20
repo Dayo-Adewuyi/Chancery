@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.openzeppelin
+contracts
+scripts
+#Hardhat files
+cache
+artifacts
+Stolid.sol
